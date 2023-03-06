@@ -11,7 +11,7 @@
 - I'm studying php and laravel.
 - There are php pure, laravel and javascript projects on my github.
 - I'm really in interested in database.
-- 📧 contact me : ththtooaung@gmail.com
+- 📧 contact me : ththtooaung.e@gmail.com
 ---
 Language & tools
 <div>
