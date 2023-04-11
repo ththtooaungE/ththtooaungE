@@ -10,7 +10,7 @@
 - I'm working as a web developer and especially in backend.
 - I'm studying php and laravel.
 - There are php pure, laravel and javascript projects on my github.
-- I'm really in interested in database.
+- I'm really interested in database.
 - 📧 contact me : ththtooaung.e@gmail.com
 ---
 Language & tools
