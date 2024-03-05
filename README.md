@@ -8,9 +8,9 @@
 
 - I'm Thet Htoo Aung.
 - I'm working as a web developer and especially in backend.
-- I'm studying php and laravel.
-- There are php pure, laravel and javascript projects on my github.
-- I'm really interested in database.
+- I'm excellent in php and develop apps within the Laravel ecosystem.
+- There are a couple of PHP and Laravel projects on my github but some are in private.
+- I'm eager of Database Designing and Manipulating.
 - 📧 contact me : ththtooaung.e@gmail.com
 ---
 Language & tools
