@@ -1,23 +1,15 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+# Thet Htoo Aung
 
-- I'm Thet Htoo Aung.
-- I'm working as a web developer and especially in backend.
-- I'm excellent in PHP and develop apps within the Laravel ecosystem.
-- I'm eager of Database Designing and Manipulating.
-- 📧 contact me : ththtooaung.e@gmail.com
+### About Me
+
+- I'm a Backend Developer with expertise in PHP
+- Also building apps with Node.js. 
+- My goal is to deliver efficient web applications
+- Handling SQL is my cup of tea 🫖.
+
+📩ththtooaung.e@gmail.com
+
 ---
-Language & tools
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" />
-</div>
+
+### Tech Stack
+![PHP](https://img.shields.io/badge/PHP-gray?style=for-the-badge&logo=php) ![Laravel](https://img.shields.io/badge/Laravel-gray?style=for-the-badge&logo=laravel) ![MYSQL](https://img.shields.io/badge/MYSQL-gray?style=for-the-badge&logo=mysql) ![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javascript) ![NodeJS](https://img.shields.io/badge/NodeJS-gray?style=for-the-badge&logo=node.js) ![MongoDB](https://img.shields.io/badge/MongoDB-gray?style=for-the-badge&logo=mongodb) ![HTML](https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=css3) ![Tailwind](https://img.shields.io/badge/Tailwind-gray?style=for-the-badge&logo=tailwindcss) ![Bootstrap](https://img.shields.io/badge/Bootstrap-gray?style=for-the-badge&logo=bootstrap)
