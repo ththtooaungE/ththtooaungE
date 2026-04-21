@@ -3,7 +3,7 @@
 ### About Me
 
 - I'm a Backend Developer with expertise in PHP
-- Also building apps with Node.js. 
+- Also building apps with excellent Architecture and Best practices.
 - My goal is to deliver efficient web applications
 - Handling SQL is my cup of tea 🫖.
 
